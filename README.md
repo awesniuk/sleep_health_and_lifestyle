@@ -15,7 +15,7 @@
 - Daily Steps: The number of steps the person takes per day.
 - Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
 
-> **Details about Sleep Disorder Column:**
+### Details about Sleep Disorder Column:
 
 - None: The individual does not exhibit any specific sleep disorder.
 - Insomnia: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.
